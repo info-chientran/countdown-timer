@@ -20,6 +20,10 @@ function countdown() {
     hoursEl.innerHTML = formatTime(hours);
     minsEl.innerHTML = formatTime(mins);
     secondsEl.innerHTML = formatTime(seconds);
+
+    if (days === 0 && hours === 0 && mins === 0 && seconds === 0) {
+        alert("Happy new year")
+    }
 }
 
 function formatTime(time) {
