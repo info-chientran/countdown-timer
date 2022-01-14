@@ -1,4 +1,4 @@
-![Countdown timer](https://github.com/info-chientran/profile/blob/main/assets/img/cover.png?raw=true)
+![Countdown timer](https://github.com/info-chientran/countdown-timer/blob/main/assets/img/cover.png?raw=true)
 
 ## Countdown timer
 
